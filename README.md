@@ -13,6 +13,4 @@ In my class Storytelling with Data, I am looking forward to learning how to comm
 # Portfolio
 As I create cool data visualizations, you will be able to see them here!
 
-Below is an example
-
-<iframe title="Facebook clicks" aria-label="Bar Chart" id="datawrapper-chart-0OJne" src="//datawrapper.dwcdn.net/0OJne/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="237"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script> 
+[Government Debt Data from OECD](/datavizOECD)
