@@ -15,3 +15,5 @@ In my class Storytelling with Data, I am looking forward to learning how to comm
 As I create cool data visualizations, you will be able to see them here!
 
 [Data visualization of OECD](https://eileenowang.github.io/datavizOECD/)
+
+[Median income from various fields of study and educational qualification](https://eileenowang.github.io/LabourMarketOutcomes/)
