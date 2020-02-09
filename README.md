@@ -18,4 +18,4 @@ As I create cool data visualizations, you will be able to see them here!
 
 [Median income from various fields of study and educational qualification](https://eileenowang.github.io/LabourMarketOutcomes/)
 
-[Final Project on A tangible way to find happiness](https://eileenowang.github.io/final_project_eileenwang/)
+[Final Project: A tangible way to find happiness](https://eileenowang.github.io/final_project_eileenwang/)
